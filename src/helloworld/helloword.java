@@ -2,6 +2,6 @@ package helloworld;
 
 public class helloword {
 	public static void main(String[] args) {
-		System.out.println("ÎÒµÄµÚÒ»¸öGIT,ĞŞ¸Ä¹ıÁË");
+		System.out.println("æˆ‘çš„ç¬¬ä¸€ä¸ªGit,ä¿®æ”¹è¿‡çš„ï¼");
 	}
 }
